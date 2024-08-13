@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(57, 57, 190);
+}
+h1{
+   color: rgb(67, 13, 117);
+}
+h2{
+   color: rgb(109, 27, 185);
+}
+p{
+    color: rgba(157, 85, 224, 0.63);;
+}
+
+#principal{
+    text-align: center;
+    background-color:  rgba(67, 13, 117, 0.212);
+}
+
+.basico{
+    background-color:  rgba(158, 54, 255, 0.329);
+}
